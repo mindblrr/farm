@@ -20,7 +20,6 @@ Behavior
 
 Manipulation Module
 LCD I2C Display
-Stepper Motor + Driver + FAN
 BUZZER
 
 โครงสร้างพื้นฐาน
