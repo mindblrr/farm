@@ -24,7 +24,7 @@ Stepper Motor + Driver + FAN
 BUZZER
 
 โครงสร้างพื้นฐาน
-diagram picture
+
 
 ระบบการทำงาน
 flowchart picture
